@@ -1,0 +1,1 @@
+The hmtl and parts of the css file were already completed. This website was a part of the CodeCademy corriculum to learn how to debug with the help of the Chrome Dev tool and practice responsive design.
